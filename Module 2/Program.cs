@@ -26,5 +26,7 @@ namespace Module2_edX
             }
             Console.ReadKey(true);
         }
+        //When calculated, the sum must be even for the character X in the board.
+        //http://imgur.com/0YyGOZl for my calculation
     }
 }
